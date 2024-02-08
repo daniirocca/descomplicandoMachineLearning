@@ -10,4 +10,5 @@ Então, sem mais delongas, vamos nos aventurar nesse universo do Machine Learnin
 
 
 
+![image](https://github.com/daniirocca/Machine_Learning/assets/117545155/26be2dd2-05b2-479c-b710-29d5cb1f8cf0)
 
