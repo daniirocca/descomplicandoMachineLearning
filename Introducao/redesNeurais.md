@@ -21,7 +21,7 @@ Agora, aqui está a parte realmente incrível: o aprendizado de máquina! As red
 
 ## Aplicações das Redes Neurais
 
-As redes neurais têm aplicações em diversos campos, desde reconhecimento de padrões até jogos de vídeo game. Elas podem até mesmo prever o futuro (bem, pelo menos tentam)!
+As redes neurais têm aplicações em diversos campos, desde reconhecimento de padrões até jogos de vídeo game. Elas podem até mesmo prever o futuro (pelo menos tentam)!
 
 Então, da próxima vez que ouvir alguém falar sobre inteligência artificial, lembre-se: é apenas o trabalho árduo dos neurônios artificiais, fazendo o seu melhor para tornar o mundo um lugar mais inteligente e divertido!
 
